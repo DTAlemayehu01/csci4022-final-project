@@ -1,0 +1,27 @@
+
+
+
+Majority winner 	Majority loser 	Mutual majority 	Condorcet winner[Tn 1] 	Condorcet loser 	Smith[Tn 1] 	Smith-IIA[Tn 1] 	IIA/LIIA[Tn 1] 	Clone­proof 	Mono­tone 	Consistency 	Partici­pation 	Reversal symmetry 	Homo­geneity 	Later-no-harm[Tn 1] 	Later-no-help[Tn 1] 	No favorite betrayal[Tn 1] 	Ballot type
+Plurality 	Yes 	No 	No 	No 	No 	No 	No 	No 	No 	Yes 	Yes 	Yes 	No 	Yes 	Yes 	Yes 	No 	Single mark
+Anti-plurality 	No 	Yes 	No 	No 	No 	No 	No 	No 	No 	Yes 	Yes 	Yes 	No 	Yes 	No 	No 	Yes 	Single mark
+Two round system 	Yes 	Yes 	No 	No 	Yes 	No 	No 	No 	No 	No 	No 	No 		Yes 	Yes 	Yes 	No 	Single mark
+Instant-runoff 	Yes 	Yes 	Yes 	No 	Yes 	No 	No 	No 	Yes 	No 	No 	No 	No 	Yes 	Yes 	Yes 	No 	Ran­king
+Coombs 	Yes 	Yes 	Yes 	No 	Yes 	No 	No 	No 	No 	No 	No 	No 		Yes 	No 	No 	Yes 	Ran­king
+Nanson 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	No 	No 	No 	No 	No 	No 	Yes 		No 	No 	No 	Ran­king
+Baldwin 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	No 	No 	No 	No 	No 	No 	No 		No 	No 	No 	Ran­king
+Tideman alternative 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	No 	Yes 	No 	No 	No 	No 		No 	No 	No 	Ran­king
+Minimax 	Yes 	No 	No 	Yes[Tn 2] 	No 	No 	No 	No 	No 	Yes 	No 	No 	No 		No[Tn 2] 	No 	No 	Ran­king
+Copeland 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	No 	No 	Yes 	No 	No 			No 	No 	No 	Ran­king
+Black 	Yes 	Yes 	No 	Yes 	Yes 	No 	No 	No 	No 	Yes 	No 	No 	Yes 	Yes 	No 	No 	No 	Ran­king
+Kemeny 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	LIIA Only 	No 	Yes 	No 	No 	Yes 	Yes 	No 	No 	No 	Ran­king
+Ranked pairs 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	LIIA Only 	Yes 	Yes 	No 	No[Tn 3] 	Yes 	Yes 	No 	No 	No 	Ran­king
+Schulze 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	No 	Yes 	Yes 	No 	No[Tn 3] 	Yes 	Yes 	No 	No 	No 	Ran­king
+Borda 	No 	Yes 	No 	No 	Yes 	No 	No 	No 	No 	Yes 	Yes 	Yes 	Yes 	Yes 	No 	Yes 	No 	Ran­king
+Bucklin 	Yes 	Yes 	Yes 	No 	No 	No 	No 	No 	No 	Yes 	No 	No 	No 	Yes 	No 	Yes 	No 	Ran­king
+Approval 	Yes 	No 	No 	No 	No 	No 	Yes 	Yes[Tn 4] 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	No 	Yes 	Yes 	Appr­ovals
+Majority Judgement 	No 	No[Tn 5] 	No[Tn 6] 	No 	No 	No 	Yes 	Yes[Tn 4] 	Yes 	Yes 	No 	No[Tn 3] 		Yes 	No 	Yes 	Yes 	Scores
+Score 	No 	No 	No 	No 	No 	No 	Yes 	Yes[Tn 4] 	Yes 	Yes 	Yes 	Yes 	Yes 	Yes 	No 	Yes 	Yes 	Scores
+STAR 	No 	Yes 	No 	No 	Yes 	No 	No 	No 	No 	Yes 	No 	No 	No 		No 	No 	No 	Scores
+Quadratic 	No 	No 	No 	No 	No 	No 	No 	No 	No 	Yes 		Yes 			N/A 	N/A 	No 	Credits
+Random ballot[Tn 7] 	No 	No 	No 	No 	No 	No 	Yes 	Yes 	Yes 	Yes 		Yes 		Yes 	Yes 	Yes 	Yes 	Single mark
+Sortition[Tn 8] 	No 	No 	No 	No 	No 	No 	Yes 	Yes 	No 	Yes 		Yes 		N/A 	Yes 	Yes 	Yes 	None 
